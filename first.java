@@ -2,6 +2,6 @@
 public class first {
 
     public static void main(String[] args) {
-        System.out.println("I am Currently Learning Git and GitHub");
+        System.out.println("I am Currently Learning Git and GitHub version control");
     }
 }
